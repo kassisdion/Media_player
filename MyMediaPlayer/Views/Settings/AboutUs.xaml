@@ -1,0 +1,27 @@
+﻿<UserControl x:Class="MyMediaPlayer.Views.settings.AboutUs"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <TextBlock TextWrapping="Wrap">
+            Projet epitech dont le but etait de faire son propre "Windows Media Player" en utilisant principalement le framework .NET
+            <LineBreak />
+            <LineBreak />
+            Features :
+            <LineBreak />            
+            Lecture d'images, de musique, de videos.
+            <LineBreak />
+            Possibilité des crée des playlist contenannt les média cité ci dessus.
+            <LineBreak />
+            Possibilité de trouver un média via un systeme de filtres (Album, Artist, genre, ...)
+            <LineBreak />
+            Possibilité de changer le théme
+            <LineBreak />
+            <LineBreak />
+            Ce projet a etait réalisé par faisan_f (contact : florian.faisant@epitech.eu  https://github.com/kassisdion)
+        </TextBlock>
+    </Grid>
+</UserControl>
