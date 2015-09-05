@@ -1,4 +1,4 @@
-windows_draft
+Media_player
 =============
 
-Some project that allow me to improve my skill in c#
+A simple media_player for windows
